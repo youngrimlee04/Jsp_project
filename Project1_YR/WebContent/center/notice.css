@@ -1,0 +1,21 @@
+@charset "UTF-8";
+#notice{
+font-size: 15px;
+width: 660px; 
+!important;
+margin : 0 auto;
+}
+
+table#notice {background-color: #ffffff;
+  border: 1px solid;}
+  
+ table#notice th, table#notice td {
+  border: 1px solid; }
+  
+ table#notice th { background-color: #0080ff;
+  padding: 0.5em 0;
+  color: #ffffff; } 
+  
+ table#notice td {
+  padding: 0.4em 0.3em;}
+  
